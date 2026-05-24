@@ -1,8 +1,6 @@
-# ð cli-timer
+# ð
+ cli-timer
 
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
-[![Tests](https://img.shields.io/badge/tests-passing-brightgreen.svg)]()
-[![Python 3.9+](https://img.shields.io/badge/python-3.9%2B-blue.svg)](https://www.python.org/downloads/)
 
 A Pomodoro CLI timer with a rich terminal UI. Stay focused with timed work sessions and automatic break scheduling, all from your terminal.
 
