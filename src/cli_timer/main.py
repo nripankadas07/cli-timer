@@ -3,14 +3,13 @@
 from __future__ import annotations
 
 import signal
-import sys
 from typing import Optional
 
 import click
 from rich.console import Console
 
 from cli_timer.display import TimerDisplay
-from cli_timer.timer import PomodoroTimer, SessionType, TimerConfig
+from cli_timer.timer import PomodoroTimer, TimerConfig
 
 
 @click.group(invoke_without_command=True)
